@@ -69,19 +69,19 @@ li {
     text-align: center;
     font-size: 26px;
     font-family: 'Orbitron', sans-serif;
-    color: #00ff88;
-    border: 3px solid #00ff88;
+    color: #0f0;
+    border: 3px solid #0f0;
     border-radius: 12px;
     text-decoration: none;
     display: block;
     background: rgba(0, 255, 136, 0.05);
-    box-shadow: 0 0 15px #00ff88;
+    box-shadow: 0 0 15px #0f0;
     transition: 0.25s;
 }
 
 .download-tile:hover {
     .download-tile {
-    color: #00ff00;
+    color: #0f0;
     text-shadow: none;
 }
 
