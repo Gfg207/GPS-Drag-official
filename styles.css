@@ -104,3 +104,9 @@ body {
   opacity: 0.25;
   pointer-events: none;
 }
+
+    .nav-links {
+  list-style: none;
+  display: flex;
+  gap: 25px;
+}
